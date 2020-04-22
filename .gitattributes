@@ -1,0 +1,9 @@
+# Note that binary is a macro for -text -diff
+* text eol=lf
+
+# Graphics
+*.git binary
+*.icon binary
+*.jpg binary
+*.jpeg binary
+*.png binary
